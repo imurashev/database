@@ -1,5 +1,5 @@
 ## Работа с Базой Данных
-В рамках раздела "Работа с Базой Данных" я подготовил список MySQL запросов к базе данных интернет-магазина http://qa.demoshopping.ru/
+В рамках данного раздела я подготовил список MySQL-запросов к базе данных интернет-магазина https://qa.demoshopping.ru
 
 Решения приведены в формате "Задание - Запрос":
 - [Работа с SELECT в MySQL](https://docs.google.com/spreadsheets/d/1OVkYyTOGkc12glr8nfRg-bwzIVQSGGB8RgIa9DUy_hw/edit?usp=sharing)
